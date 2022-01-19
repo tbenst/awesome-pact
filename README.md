@@ -37,6 +37,8 @@ Kadena ushers in the next-generation of [DeFi](https://kaddex.com/), [NFTs](http
 * [kadena-transfer-js](https://github.com/kadena-community/kadena-transfer-js) - Simple Javascript tools to transfer Kadena coins.
 * [tx-tester](https://github.com/kadena-community/tx-tester) - React single-page website (deployed at https://txtool.chainweb.com/) to make Chainweb / local blockchain calls.
 * [Kadenaswap](https://github.com/kadena-io/kadenaswap) - Reference implementation for a DeFi swap exchange similar to Kaddex or Uniswap V2.
+* [Shadena](https://github.com/hexafluoride/Shadena) - Kadena wallet for developers (deployed at https://shadena.kate.land/).
+* [Marmalade](https://github.com/kadena-io/marmalade) - Decentralized Infrastructure for Poly-Fungibles and NFTs.
 
 ## Organizations
 * [Kadena-io Github](https://github.com/kadena-io) - Official GitHub organization for Kadena repositories.
