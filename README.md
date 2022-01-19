@@ -1,6 +1,6 @@
 # [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) Pact [<img src="https://cdn-eaoki.nitrocdn.com/IpMfDArfOdfAfriedYgHzeIcXKJqfxaG/assets/static/optimized/rev-b96fed2/wp-content/uploads/2021/10/Favicon-V1.png" width="200" align="right" alt="Kadena">](https://nixos.org)
 
-> A curated list of awesome projects and resources for Pact developers.
+> A (unofficial) curated list of awesome projects and resources for Pact developers.
 
 [Pact](https://medium.com/kadena-io/safer-smarter-contracts-with-pact-e86b9ccaca9f) is an open-source, Turing-incomplete smart contract language that has been purpose-built with blockchains first in mind. Developers use Pact to create Web3 applications on Kadena that eliminate entire classes of exploits so they [don't get REKT](https://savedby.kadena.network/).
 
